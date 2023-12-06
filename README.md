@@ -15,36 +15,45 @@ Project "Little Cute Doggie" is a story & make your own choice game with text ba
     </li>
     <li>
       <a href="#getting-started">Getting Started</a>
-      <ul>
-        <li><a href="#prerequisites">Prerequisites</a></li>
-        <li><a href="#installation">Installation</a></li>
-      </ul>
-    </li>
-    <li><a href="#usage">Usage</a></li>
+       </li>
+    <li><a href="#How to Play">Roadmap</a></li>
     <li><a href="#roadmap">Roadmap</a></li>
-    <li><a href="#contributing">Contributing</a></li>
     <li><a href="#license">License</a></li>
     <li><a href="#contact">Contact</a></li>
-    <li><a href="#acknowledgments">Acknowledgments</a></li>
+  
   </ol>
 </details>
 
-<h2 align="left">About the Project</h3>
+## About the Project
 - Project "Little Cute Doggie" is a simple & easy Python text based 'make-your-own-choice' game with cute furry friends (Dogs and Cats)
-It is composed of 4 chpaters : Intro - Stage 1 - Stage 2 - Epilogue. 
-The goal of this game is to lead your furry friend to make a right choice and finish its journey. 
+The goal of this game is to lead your furry friend to make a right choice and finish its journey safe and sound.
 
-<h3 align="left">Built With</h3>
+-It is composed of 4 chpaters : Intro - Stage 1 - Stage 2 - Epilogue. 
+Each Stage has multiple milestones that ask you to make choice. Some choice will affect the stamina point of your furry friend. 
+Make sure that the stamina point balance does not reach to '0'.
+
+## Built With
 - Visual Code Studio
 - Git Bash
 
-<h2 align="left">Getting Started</h3>
+## Getting Started
 - Installation of Visual Code Studio or any program to run Python file 
 
-<h2 align="left">License</h3>
-Distributed under the MIT License
+## Roadmap
+- [ ] play.py
+- [ ] intro_pkg
+- [ ] stage_1_pkg
+- [ ] stage_2_pkg
+- [ ] epilogue_pkg
 
-<h2 align="left">Contact</h3>
-MJ Kim - https://linkedin.com/in/mjkim103123
+## How to Play
+- open "play.py" to start the game
+
+## License
+- Distributed under the MIT License
+
+## Contact
+MJ Kim - LinkedIn: https://linkedin.com/in/mjkim103123
+MJ Kim - GITHUB: https://github.com/mjkim0809/Little_Cute_Doggie
 
 
