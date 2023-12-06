@@ -2,24 +2,29 @@
 
 Project "Little Cute Doggie" is a story & make your own choice game with text base. 
 
-
 <!-- TABLE OF CONTENTS -->
 <details>
-  <summary>Table of Contents</summary>
+<summary>Table of Contents</summary>
   <ol>
     <li>
       <a href="#about-the-project">About The Project</a>
-      <ul>
-        <li><a href="#built-with">Built With</a></li>
+      <ul>      
+          <li><a href="#built-with">Built With</a></li>
+          </li>
       </ul>
-    </li>
     <li>
       <a href="#getting-started">Getting Started</a>
-       </li>
-    <li><a href="#How to Play">Roadmap</a></li>
-    <li><a href="#roadmap">Roadmap</a></li>
-    <li><a href="#license">License</a></li>
-    <li><a href="#contact">Contact</a></li>
+      </li>
+    <li>
+      <a href="#How-to-Play">How to Play</a>
+      </li>
+    <li>
+      <a href="#roadmap">Roadmap</a>
+      </li>
+    <li><a href="#license">License</a>
+      </li>
+    <li><a href="#contact">Contact</a>
+      </li>
   
   </ol>
 </details>
