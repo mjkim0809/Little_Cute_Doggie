@@ -59,6 +59,7 @@ Make sure that the stamina point balance does not reach to '0'.
 
 ## Contact
 MJ Kim - LinkedIn: https://linkedin.com/in/mjkim103123
+
 MJ Kim - GITHUB: https://github.com/mjkim0809/Little_Cute_Doggie
 
 
