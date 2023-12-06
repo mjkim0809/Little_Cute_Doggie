@@ -34,13 +34,17 @@ Project "Little Cute Doggie" is a story & make your own choice game with text ba
 It is composed of 4 chpaters : Intro - Stage 1 - Stage 2 - Epilogue. 
 The goal of this game is to lead your furry friend to make a right choice and finish its journey. 
 
-
 <h3 align="left">Built With</h3>
 - Visual Code Studio
-- Git ash
+- Git Bash
+
 <h2 align="left">Getting Started</h3>
-<h3 align="left">Prerequisites</h3>
 - Installation of Visual Code Studio or any program to run Python file 
-<h2 align="left">Usage</h3>
+
 <h2 align="left">License</h3>
+Distributed under the MIT License
+
 <h2 align="left">Contact</h3>
+MJ Kim - https://linkedin.com/in/mjkim103123
+
+
