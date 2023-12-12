@@ -53,7 +53,8 @@ Make sure that the stamina point balance does not reach to '0'.
 - [ ] epilogue_pkg
 
 ## How to Play
-- open "play.py" to start the game
+- open "play.py" to start the game with Python script runner (i.e. VSC)
+- Or, go to "Output" folder -> "Play" folder and run "play.exe". (no Python script reading platform required) 
 
 ## License
 - Distributed under the MIT License
