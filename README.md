@@ -1,6 +1,7 @@
 <h1 align="center">Little Cute Doggie V.1.0.</h3>
 
 Project "Little Cute Doggie" is a story & make your own choice game with text base. 
+Update (12.11.2023) : Output folder added to repo. Beneath the folder, exe file of Little Cute Doggie available to play 
 
 <!-- TABLE OF CONTENTS -->
 <details>
